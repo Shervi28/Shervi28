@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a passion for coding and engineering!!!
 -->
 
-Skills: PYTHON / JAVA
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shervi28)](https://github.com/anuraghazra/github-readme-stats)
