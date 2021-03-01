@@ -13,3 +13,7 @@
 <a href="https://github.com/Shervi28/Basic2D">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Shervi28&repo=Basic2D&theme=light" />
 </a>
+</a>
+<a href="https://github.com/Shervi28/Covid19-App">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Shervi28&repo=Covid19-App&theme=light" />
+</a>
