@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a physics simulator called Basic2D!!!
+- 🔭 I’m currently working on a simulation software called SimCode!!!
 - 🌱 I’m currently learning ROS(Robot Operating System)
 - 💬 Ask me about AI
 - 😄 Pronouns: He/His/Him
