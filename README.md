@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a simulation software called SimCode!!!
-- 🌱 I’m currently learning ROS(Robot Operating System)
+- 🌱 I’m currently learning Flutter and IoT
 - 💬 Ask me about AI
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have a passion for coding and engineering!!!
