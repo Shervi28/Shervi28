@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a simulation software called SimCode!!!
-- 🌱 I’m currently learning Flutter and IoT
+- 🔭 I'm currently building projects using elixir!!
+- 🌱 I’m currently learning Rust and Elixir
 - 💬 Ask me about AI
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have a passion for coding and engineering!!!
